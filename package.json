@@ -1,0 +1,30 @@
+{
+  "name": "musicstream",
+  "version": "1.0.0",
+  "description": "music pp with nodejs and expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renaissancenerd/MusicStream.git"
+  },
+  "keywords": [
+    "node",
+    "music",
+    "express",
+    "stream",
+    "pipe"
+  ],
+  "author": "Vatsal Limbachia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renaissancenerd/MusicStream/issues"
+  },
+  "homepage": "https://github.com/renaissancenerd/MusicStream#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
+packgae
